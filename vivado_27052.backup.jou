@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Fri Jan  5 10:27:47 2018
+# Process ID: 27052
+# Current directory: C:/Users/user/Desktop/BigHomework OR
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent54700 C:\Users\user\Desktop\BigHomework OR\BigHomework OR.xpr
+# Log file: C:/Users/user/Desktop/BigHomework OR/vivado.log
+# Journal file: C:/Users/user/Desktop/BigHomework OR\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/BigHomework OR/BigHomework OR.xpr}
